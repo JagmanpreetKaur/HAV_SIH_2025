@@ -39,8 +39,8 @@ HAVitSync Dashboard:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/AsmitSwain27/HAVitSync.git
-cd havitsync
+git clone https://github.com/JagmanpreetKaur/HAV_SIH_2025
+cd HAV_SIH_2025
 ```
 
 2. Install dependencies
@@ -109,11 +109,11 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## 👨‍💻 Author
 
-**ASMIT SWAIN**
-- GitHub: [@AsmitSwain27](https://github.com/AsmitSwain27)
-- LinkedIn: [Asmit Swain](https://linkedin.com/in/asmit-swain27a15/)
-- Portfolio Website: [portfolio-asmit-swain.com](https://portfolio-asmit-swain.netlify.app/)
-- Email: [@asmitswain](swain.asmit2006@gmail.com)  
+**Jagmanpreet Kaur**
+- GitHub: [@JagmanpreetKaur](https://github.com/JagmanpreetKaur)
+- LinkedIn: [Jagmanpreet Kaur](https://www.linkedin.com/in/jagmanpreet-kaur-037806367/)
+- Portfolio Website: 
+- Email: [@Jagmanpreet Kaur](jagmanpreetkaur16@gmail.com)  
 
 ## 🙏 Acknowledgements
 
